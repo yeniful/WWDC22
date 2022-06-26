@@ -12,7 +12,7 @@ Complications and widgets: Reloaded - [Link](https://developer.apple.com/videos
 
 Meet Focus filters - [Link](https://developer.apple.com/videos/play/wwdc2022-10121)
 
-Meet Swift Async Algorithms - [Link](https://developer.apple.com/videos/play/wwdc2022-110355)
+Meet Swift Async Algorithms - [Link](https://developer.apple.com/videos/play/wwdc2022-110355) ✅
 
 Meet Swift Regex - [Link](https://developer.apple.com/videos/play/wwdc2022-110357)
 
