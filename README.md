@@ -2,29 +2,29 @@
 
 ### **General**
 
-Platforms State of the Union - [Link](https://developer.apple.com/videos/play/wwdc2022-102) ✅
+- [x] Platforms State of the Union - [Link](https://developer.apple.com/videos/play/wwdc2022-102)
 
 ### **Code**
 
-Build your first app in Swift Playgrounds - [Link](https://developer.apple.com/videos/play/wwdc2022-110348) ✅
+- [ ] Build your first app in Swift Playgrounds - [Link](https://developer.apple.com/videos/play/wwdc2022-110348)
 
-Complications and widgets: Reloaded - [Link](https://developer.apple.com/videos/play/wwdc2022-10050)
+- [ ] Complications and widgets: Reloaded - [Link](https://developer.apple.com/videos/play/wwdc2022-10050)
 
-Meet Focus filters - [Link](https://developer.apple.com/videos/play/wwdc2022-10121)
+- [ ] Meet Focus filters - [Link](https://developer.apple.com/videos/play/wwdc2022-10121)
 
-Meet Swift Async Algorithms - [Link](https://developer.apple.com/videos/play/wwdc2022-110355) ✅
+- [ ] Meet Swift Async Algorithms - [Link](https://developer.apple.com/videos/play/wwdc2022-110355)
 
-Meet Swift Regex - [Link](https://developer.apple.com/videos/play/wwdc2022-110357)
+- [ ] Meet Swift Regex - [Link](https://developer.apple.com/videos/play/wwdc2022-110357)
 
-Meet WeatherKit - [Link](https://developer.apple.com/videos/play/wwdc2022-10003)
+- [ ] Meet WeatherKit - [Link](https://developer.apple.com/videos/play/wwdc2022-10003)
 
-Meet desktop class iPad - [Link](https://developer.apple.com/videos/play/wwdc2022-10069)
+- [ ] Meet desktop class iPad - [Link](https://developer.apple.com/videos/play/wwdc2022-10069)
 
-What's new in App Clips - [Link](https://developer.apple.com/videos/play/wwdc2022-10097)
+- [ ] What's new in App Clips - [Link](https://developer.apple.com/videos/play/wwdc2022-10097)
 
-What's new in Swift - [Link](https://developer.apple.com/videos/play/wwdc2022-110354)
+- [ ] What's new in Swift - [Link](https://developer.apple.com/videos/play/wwdc2022-110354)
 
-What's new in UIKit - [Link](https://developer.apple.com/videos/play/wwdc2022-10068)-- Coming June 8
+- [ ] What's new in UIKit - [Link](https://developer.apple.com/videos/play/wwdc2022-10068)-- Coming June 8
 
 - Add Live Text interaction to your app
 - Bring your iOS app to the Mac
@@ -40,12 +40,12 @@ What's new in UIKit - [Link](https://developer.apple.com/videos/play/wwdc2022-1
 
 ### **SwiftUI**
 
-Hello Swift Charts - [Link](https://developer.apple.com/videos/play/wwdc2022-10136) ✅
+- [x] Hello Swift Charts - [Link](https://developer.apple.com/videos/play/wwdc2022-10136)
 
 
-The SwiftUI cookbook for navigation - [Link](https://developer.apple.com/videos/play/wwdc2022-10054)
+- [ ] The SwiftUI cookbook for navigation - [Link](https://developer.apple.com/videos/play/wwdc2022-10054)
 
-What’s new in SwiftUI - [Link](https://developer.apple.com/videos/play/wwdc2022-10052)-- Coming June 8
+- [ ] What’s new in SwiftUI - [Link](https://developer.apple.com/videos/play/wwdc2022-10052)-- Coming June 8
 
 - Compose custom layouts with SwiftUI
 - Swift Charts: Raise the bar-- Coming June 9
@@ -57,13 +57,13 @@ What’s new in SwiftUI - [Link](https://developer.apple.com/videos/play/wwdc20
 
 ### **Xcode & Dev Tools**
 
-Get the most out of Xcode Cloud - [Link](https://developer.apple.com/videos/play/wwdc2022-110374)
+- [ ] Get the most out of Xcode Cloud - [Link](https://developer.apple.com/videos/play/wwdc2022-110374)
 
-Get to know Developer Mode - [Link](https://developer.apple.com/videos/play/wwdc2022-110344)
+- [ ] Get to know Developer Mode - [Link](https://developer.apple.com/videos/play/wwdc2022-110344)
 
-Meet Passkeys - [Link](https://developer.apple.com/videos/play/wwdc2022-10092)
+- [ ] Meet Passkeys - [Link](https://developer.apple.com/videos/play/wwdc2022-10092)
 
-What's new in Xcode - [Link](https://developer.apple.com/videos/play/wwdc2022-110427)-- Coming June 8
+- [ ] What's new in Xcode - [Link](https://developer.apple.com/videos/play/wwdc2022-110427)-- Coming June 8
 
 - Use Xcode to develop a multiplatform app
 - Create your Privacy Nutrition Label
@@ -76,7 +76,7 @@ What's new in Xcode - [Link](https://developer.apple.com/videos/play/wwdc2022-1
 
 ### **Supporting Frameworks**
 
-Bring your driver to iPad with DriverKit - [Link](https://developer.apple.com/videos/play/wwdc2022-110373)-- Coming June 8
+- [ ] Bring your driver to iPad with DriverKit - [Link](https://developer.apple.com/videos/play/wwdc2022-110373)-- Coming June 8
 
 - What's new in HealthKit
 - What’s new in CloudKit Console
@@ -90,9 +90,9 @@ Bring your driver to iPad with DriverKit - [Link](https://developer.apple.com/v
 
 ### **Design**
 
-Adopt Variable Color in SF Symbols - [Link](https://developer.apple.com/videos/play/wwdc2022-10158)
+- [ ] Adopt Variable Color in SF Symbols - [Link](https://developer.apple.com/videos/play/wwdc2022-10158)
 
-What's new in SF Symbols 4 - [Link](https://developer.apple.com/videos/play/wwdc2022-10157)-- Coming June 8
+- [ ] What's new in SF Symbols 4 - [Link](https://developer.apple.com/videos/play/wwdc2022-10157)-- Coming June 8
 
 - Design an effective chart
 - Design app experiences with charts
@@ -106,7 +106,7 @@ What's new in SF Symbols 4 - [Link](https://developer.apple.com/videos/play/wwd
 
 ### **Games**
 
-Bring your world into augmented reality - [Link](https://developer.apple.com/videos/play/wwdc2022-10128)
+- [ ] Bring your world into augmented reality - [Link](https://developer.apple.com/videos/play/wwdc2022-10128)
 
 Plug-in and play: Add Apple frameworks to your Unity game projects - [Link](https://developer.apple.com/videos/play/wwdc2022-10065)--- Coming June 9
 
@@ -115,7 +115,7 @@ Plug-in and play: Add Apple frameworks to your Unity game projects - [Link](htt
 
 ### **Accessibility**
 
-Add accessibility to your Unity games - [Link](https://developer.apple.com/videos/play/wwdc2022-10151)--- Coming June 9
+- [ ] Add accessibility to your Unity games - [Link](https://developer.apple.com/videos/play/wwdc2022-10151)--- Coming June 9
 
 - What's new in web accessibility
 
@@ -125,15 +125,15 @@ Add accessibility to your Unity games - [Link](https://developer.apple.com/vide
 
 ### **Audio and Video**
 
-Capture machine-readable codes and text with VisionKit - [Link](https://developer.apple.com/videos/play/wwdc2022-10025)
+- [ ] Capture machine-readable codes and text with VisionKit - [Link](https://developer.apple.com/videos/play/wwdc2022-10025)
 
-Create parametric 3D room scans with RoomPlan - [Link](https://developer.apple.com/videos/play/wwdc2022-10127)
+- [ ] Create parametric 3D room scans with RoomPlan - [Link](https://developer.apple.com/videos/play/wwdc2022-10127)
 
-Discover Metal 3 - [Link](https://developer.apple.com/videos/play/wwdc2022-10066)
+- [ ] Discover Metal 3 - [Link](https://developer.apple.com/videos/play/wwdc2022-10066)
 
-Explore more content with MusicKit - [Link](https://developer.apple.com/videos/play/wwdc2022-110347)
+- [ ] Explore more content with MusicKit - [Link](https://developer.apple.com/videos/play/wwdc2022-110347)
 
-Qualities of great AR experiences - [Link](https://developer.apple.com/videos/play/wwdc2022-10131)-- Coming June 8
+- [ ] Qualities of great AR experiences - [Link](https://developer.apple.com/videos/play/wwdc2022-10131)-- Coming June 8
 
 - Discover advancements in iOS camera capture: Depth, focus, and multitasking
 - Meet Apple Music API and MusicKit
@@ -142,9 +142,9 @@ Qualities of great AR experiences - [Link](https://developer.apple.com/videos/p
 
 ### **Machine Learning**
 
-Get to know Create ML Components - [Link](https://developer.apple.com/videos/play/wwdc2022-10019)
+- [ ] Get to know Create ML Components - [Link](https://developer.apple.com/videos/play/wwdc2022-10019)
 
-What's new in Create ML - [Link](https://developer.apple.com/videos/play/wwdc2022-110332)-- Coming June 8
+- [ ] What's new in Create ML - [Link](https://developer.apple.com/videos/play/wwdc2022-110332)-- Coming June 8
 
 - Compose advanced models with Create ML Components
 - Optimize your Core ML usage--- Coming June 10
